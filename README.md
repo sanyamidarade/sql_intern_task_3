@@ -16,6 +16,7 @@ A SQL script that includes the following:
 •Usage of SELECT * to retrieve all columns.
   
 •Usage of SELECT column1, column2 to retrieve specific columns.
+
 	
 
 2.	Filtering the Data
@@ -29,6 +30,7 @@ A SQL script that includes the following:
 •Range filtering using BETWEEN.
 
  
+
 3.	Sorting and Limiting Results
 	
 •Sorting using ORDER BY clause.

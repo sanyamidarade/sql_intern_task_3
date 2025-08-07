@@ -5,7 +5,7 @@
 Extracted data from one or more database tables using basic SQL query techniques.
 
 
-#Tool Used:
+# Tool Used:
 pgAdmin
 
 I used it to run SQL queries to add, change, and delete data.

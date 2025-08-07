@@ -8,7 +8,7 @@ Extracted data from one or more database tables using basic SQL query techniques
 # Tool Used:
 pgAdmin
 
-I used it to run SQL queries to add, change, and delete data.
+I used it to run SQL queries.
 
 # Deliverables:
 

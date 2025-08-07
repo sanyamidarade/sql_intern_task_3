@@ -11,7 +11,7 @@ Extracted data from one or more database tables using basic SQL query techniques
 A SQL script that includes the following:
 	
 
- 1.	Data Selection
+1.	Data Selection
 	
 •Usage of SELECT * to retrieve all columns.
   
@@ -29,7 +29,7 @@ A SQL script that includes the following:
 •Range filtering using BETWEEN.
 
  
- 4.	Sorting and Limiting Results
+3.	Sorting and Limiting Results
 	
 •Sorting using ORDER BY clause.
  
